@@ -1,6 +1,6 @@
 
 pragma solidity ^0.4.22;
-contract TCoin{
+contract Cameswape{
 	mapping (address => uint256) public balanceOf;
 	// balanceOf[address] = 5;
 
